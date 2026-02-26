@@ -1,0 +1,16 @@
+# Node modules for frontend
+frontend/node_modules/
+
+# React build folder
+frontend/build/
+
+# Python cache for backend
+backend/__pycache__/
+backend/*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
